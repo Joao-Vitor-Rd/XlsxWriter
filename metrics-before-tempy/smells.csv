@@ -1,0 +1,130 @@
+arquivo,smell,metodo,linhas
+xlsxwriter/test/app/test_app01.py,Verbose Test,test_assemble_xml_file,24;69
+xlsxwriter/test/app/test_app02.py,Verbose Test,test_assemble_xml_file,24;71
+xlsxwriter/test/app/test_app03.py,Verbose Test,test_assemble_xml_file,24;78
+xlsxwriter/test/drawing/test_drawing_chart01.py,Verbose Test,test_assemble_xml_file,24;89
+xlsxwriter/test/drawing/test_drawing_image01.py,Verbose Test,test_assemble_xml_file,25;97
+xlsxwriter/test/drawing/test_drawing_image01.py,Verbose Test,test_assemble_xml_file_with_url,99;180
+xlsxwriter/test/sharedstrings/test_sharedstrings01.py,Verbose Test,test_assemble_xml_file,24;77
+xlsxwriter/test/styles/test_styles01.py,Verbose Test,test_assemble_xml_file,25;98
+xlsxwriter/test/styles/test_styles02.py,Verbose Test,test_assemble_xml_file,25;132
+xlsxwriter/test/styles/test_styles03.py,Verbose Test,test_assemble_xml_file,25;118
+xlsxwriter/test/styles/test_styles04.py,Verbose Test,test_assemble_xml_file,25;244
+xlsxwriter/test/styles/test_styles05.py,Verbose Test,test_assemble_xml_file,25;178
+xlsxwriter/test/styles/test_styles06.py,Verbose Test,test_assemble_xml_file,25;134
+xlsxwriter/test/styles/test_styles07.py,Verbose Test,test_assemble_xml_file,25;132
+xlsxwriter/test/styles/test_styles08.py,Verbose Test,test_assemble_xml_file,25;137
+xlsxwriter/test/styles/test_styles09.py,Verbose Test,test_assemble_xml_file,25;126
+xlsxwriter/test/table/test_table08.py,Verbose Test,test_assemble_xml_file,27;74
+xlsxwriter/test/table/test_table09.py,Verbose Test,test_assemble_xml_file,27;86
+xlsxwriter/test/table/test_table11.py,Verbose Test,test_assemble_xml_file,28;83
+xlsxwriter/test/table/test_table12.py,Verbose Test,test_assemble_xml_file,28;83
+xlsxwriter/test/utility/test_quote_sheetname.py,Unknown Test,test_quote_sheetname,21
+xlsxwriter/test/utility/test_quote_sheetname.py,Verbose Test,test_quote_sheetname,21;159
+xlsxwriter/test/utility/test_xl_cell_to_rowcol.py,Conditional Test Logic,test_xl_cell_to_rowcol,43
+xlsxwriter/test/utility/test_xl_cell_to_rowcol.py,Conditional Test Logic,test_xl_cell_to_rowcol_abs,59
+xlsxwriter/test/utility/test_xl_cell_to_rowcol_abs.py,Conditional Test Logic,test_xl_cell_to_rowcol_abs,43
+xlsxwriter/test/utility/test_xl_cell_to_rowcol_abs.py,Conditional Test Logic,test_xl_cell_to_rowcol_abs_abs,59
+xlsxwriter/test/utility/test_xl_col_to_name.py,Conditional Test Logic,test_xl_col_to_name,42
+xlsxwriter/test/utility/test_xl_col_to_name.py,Conditional Test Logic,test_xl_col_to_name_abs,60
+xlsxwriter/test/utility/test_xl_pixel_width.py,Conditional Test Logic,test_xl_pixel_width,127
+xlsxwriter/test/utility/test_xl_pixel_width.py,Verbose Test,test_xl_pixel_width,21;132
+xlsxwriter/test/utility/test_xl_range.py,Conditional Test Logic,test_xl_range,45
+xlsxwriter/test/utility/test_xl_range.py,Conditional Test Logic,test_xl_range_abs,77
+xlsxwriter/test/utility/test_xl_rowcol_to_cell.py,Conditional Test Logic,test_xl_rowcol_to_cell,46
+xlsxwriter/test/utility/test_xl_rowcol_to_cell.py,Conditional Test Logic,test_xl_rowcol_to_cell_abs,67
+xlsxwriter/test/utility/test_xl_rowcol_to_cell.py,Conditional Test Logic,test_xl_rowcol_to_cell_fast,98
+xlsxwriter/test/vml/test_vml01.py,Verbose Test,test_assemble_xml_file,25;76
+xlsxwriter/test/vml/test_vml02.py,Verbose Test,test_assemble_xml_file,24;74
+xlsxwriter/test/vml/test_vml03.py,Verbose Test,test_assemble_xml_file,25;73
+xlsxwriter/test/workbook/test_theme_exceptions.py,Unknown Test,test_theme_exception01,23
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_0,32
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_1,48
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_2,64
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_3,80
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_4,96
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_5,112
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_6,128
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_7,144
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_8,160
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_9,176
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_10,192
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_11,208
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_12,224
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_13,240
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_14,256
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_15,272
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_16,288
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_17,304
+xlsxwriter/test/worksheet/test_calculate_spans.py,Conditional Test Logic,test_calculate_spans_18,320
+xlsxwriter/test/worksheet/test_cond_format01.py,Verbose Test,test_assemble_xml_file,24;86
+xlsxwriter/test/worksheet/test_cond_format02.py,Verbose Test,test_assemble_xml_file,24;96
+xlsxwriter/test/worksheet/test_cond_format03.py,Verbose Test,test_assemble_xml_file,24;108
+xlsxwriter/test/worksheet/test_cond_format04.py,Verbose Test,test_assemble_xml_file,24;96
+xlsxwriter/test/worksheet/test_cond_format05.py,Verbose Test,test_assemble_xml_file,24;178
+xlsxwriter/test/worksheet/test_cond_format06.py,Verbose Test,test_assemble_xml_file,24;120
+xlsxwriter/test/worksheet/test_cond_format07.py,Verbose Test,test_assemble_xml_file,24;129
+xlsxwriter/test/worksheet/test_cond_format08.py,Verbose Test,test_assemble_xml_file,24;199
+xlsxwriter/test/worksheet/test_cond_format09.py,Verbose Test,test_assemble_xml_file,24;121
+xlsxwriter/test/worksheet/test_cond_format10.py,Verbose Test,test_assemble_xml_file,25;94
+xlsxwriter/test/worksheet/test_cond_format11.py,Verbose Test,test_assemble_xml_file,25;94
+xlsxwriter/test/worksheet/test_cond_format12.py,Verbose Test,test_assemble_xml_file,24;136
+xlsxwriter/test/worksheet/test_cond_format13.py,Verbose Test,test_assemble_xml_file,24;138
+xlsxwriter/test/worksheet/test_cond_format14.py,Verbose Test,test_assemble_xml_file,24;135
+xlsxwriter/test/worksheet/test_cond_format15.py,Verbose Test,test_assemble_xml_file,24;128
+xlsxwriter/test/worksheet/test_cond_format16.py,Verbose Test,test_assemble_xml_file,24;146
+xlsxwriter/test/worksheet/test_cond_format17.py,Verbose Test,test_assemble_xml_file,24;149
+xlsxwriter/test/worksheet/test_cond_format18.py,Verbose Test,test_assemble_xml_file,24;144
+xlsxwriter/test/worksheet/test_cond_format19.py,Verbose Test,test_assemble_xml_file,24;147
+xlsxwriter/test/worksheet/test_cond_format20.py,Verbose Test,test_assemble_xml_file,24;130
+xlsxwriter/test/worksheet/test_cond_format21.py,Verbose Test,test_assemble_xml_file,24;149
+xlsxwriter/test/worksheet/test_cond_format22.py,Verbose Test,test_assemble_xml_file,24;230
+xlsxwriter/test/worksheet/test_cond_format23.py,Verbose Test,test_assemble_xml_file,24;210
+xlsxwriter/test/worksheet/test_cond_format24.py,Verbose Test,test_assemble_xml_file,24;291
+xlsxwriter/test/worksheet/test_data_bar02.py,Verbose Test,test_assemble_xml_file,24;92
+xlsxwriter/test/worksheet/test_data_bar03.py,Verbose Test,test_assemble_xml_file,25;165
+xlsxwriter/test/worksheet/test_data_bar04.py,Verbose Test,test_assemble_xml_file,24;162
+xlsxwriter/test/worksheet/test_data_bar05.py,Verbose Test,test_assemble_xml_file,24;164
+xlsxwriter/test/worksheet/test_data_bar06.py,Verbose Test,test_assemble_xml_file,24;162
+xlsxwriter/test/worksheet/test_data_bar07.py,Verbose Test,test_assemble_xml_file,24;163
+xlsxwriter/test/worksheet/test_data_bar09.py,Verbose Test,test_assemble_xml_file,24;93
+xlsxwriter/test/worksheet/test_data_bar10.py,Verbose Test,test_assemble_xml_file,24;182
+xlsxwriter/test/worksheet/test_data_bar11.py,Verbose Test,test_assemble_xml_file,24;184
+xlsxwriter/test/worksheet/test_data_bar12.py,Verbose Test,test_assemble_xml_file,24;115
+xlsxwriter/test/worksheet/test_data_bar13.py,Verbose Test,test_assemble_xml_file,24;87
+xlsxwriter/test/worksheet/test_date_time_01.py,Conditional Test Logic,test_convert_date_time,131
+xlsxwriter/test/worksheet/test_date_time_01.py,Verbose Test,test_convert_date_time,26;136
+xlsxwriter/test/worksheet/test_date_time_02.py,Conditional Test Logic,test_convert_date_time_datetime,437
+xlsxwriter/test/worksheet/test_date_time_02.py,Conditional Test Logic,test_convert_date_time_date,448
+xlsxwriter/test/worksheet/test_date_time_02.py,Conditional Test Logic,test_convert_date_time_1904,465
+xlsxwriter/test/worksheet/test_date_time_03.py,Conditional Test Logic,test_convert_date_time,233
+xlsxwriter/test/worksheet/test_date_time_03.py,Conditional Test Logic,test_convert_date_time_seconds_only,244
+xlsxwriter/test/worksheet/test_date_time_03.py,Conditional Test Logic,test_convert_date_time_seconds_only_time,255
+xlsxwriter/test/worksheet/test_date_time_03.py,Conditional Test Logic,test_convert_date_time_timedelta,269
+xlsxwriter/test/worksheet/test_encode_password.py,Conditional Test Logic,test__encode_password,62
+xlsxwriter/test/worksheet/test_extract_filter_tokens.py,Unknown Test,test_extract_filter_tokens,27
+xlsxwriter/test/worksheet/test_extract_filter_tokens.py,Verbose Test,test_extract_filter_tokens,27;111
+xlsxwriter/test/worksheet/test_merge_range02.py,Verbose Test,test_assemble_xml_file,26;76
+xlsxwriter/test/worksheet/test_parse_filter_expression.py,Conditional Test Logic,test_parse_filter_expression,129
+xlsxwriter/test/worksheet/test_parse_filter_expression.py,Verbose Test,test_parse_filter_expression,27;136
+xlsxwriter/test/worksheet/test_prepare_formula.py,Conditional Test Logic,test_prepare_formula,233
+xlsxwriter/test/worksheet/test_prepare_formula.py,Verbose Test,test_prepare_formula,22;238
+xlsxwriter/test/worksheet/test_prepare_table_formula.py,Conditional Test Logic,test_prepare_table_formula,41
+xlsxwriter/test/worksheet/test_range_return_values.py,Verbose Test,test_range_return_values,21;104
+xlsxwriter/test/worksheet/test_sparkline01.py,Verbose Test,test_assemble_xml_file,24;74
+xlsxwriter/test/worksheet/test_sparkline02.py,Verbose Test,test_assemble_xml_file,24;98
+xlsxwriter/test/worksheet/test_sparkline03.py,Verbose Test,test_assemble_xml_file,24;133
+xlsxwriter/test/worksheet/test_sparkline04.py,Verbose Test,test_assemble_xml_file,24;104
+xlsxwriter/test/worksheet/test_sparkline05.py,Verbose Test,test_assemble_xml_file,24;105
+xlsxwriter/test/worksheet/test_sparkline06.py,Verbose Test,test_assemble_xml_file,24;126
+xlsxwriter/test/worksheet/test_sparkline07.py,Verbose Test,test_assemble_xml_file,24;338
+xlsxwriter/test/worksheet/test_sparkline08.py,Verbose Test,test_assemble_xml_file,24;170
+xlsxwriter/test/worksheet/test_sparkline09.py,Conditional Test Logic,test_assemble_xml_file,41
+xlsxwriter/test/worksheet/test_sparkline09.py,Verbose Test,test_assemble_xml_file,24;1259
+xlsxwriter/test/worksheet/test_sparkline10.py,Verbose Test,test_assemble_xml_file,24;116
+xlsxwriter/test/worksheet/test_sparkline11.py,Verbose Test,test_assemble_xml_file,24;225
+xlsxwriter/test/worksheet/test_sparkline12.py,Verbose Test,test_assemble_xml_file,24;98
+xlsxwriter/test/worksheet/test_worksheet05.py,Verbose Test,test_assemble_xml_file,25;72
+xlsxwriter/test/worksheet/test_worksheet06.py,Verbose Test,test_assemble_xml_file,25;82
+xlsxwriter/test/worksheet/test_worksheet07.py,Verbose Test,test_assemble_xml_file,25;81
+xlsxwriter/test/worksheet/test_worksheet08.py,Verbose Test,test_assemble_xml_file,25;96
