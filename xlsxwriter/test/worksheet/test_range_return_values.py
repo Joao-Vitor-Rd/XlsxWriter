@@ -1,3 +1,12 @@
+###############################################################################
+#
+# Tests for XlsxWriter.
+#
+# SPDX-License-Identifier: BSD-2-Clause
+#
+# Copyright (c), 2013-2025, John McNamara, jmcnamara@cpan.org
+#
+
 import unittest
 
 from xlsxwriter.worksheet import Worksheet
