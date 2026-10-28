@@ -55,14 +55,28 @@ class TestCalculateSpans(unittest.TestCase):
 
         self.assertEqual(exp, got)
 
+    def _fill_worksheet_for_calculate_spans_1(self):
+        self.worksheet.write_number(0, 0, 1)
+        self.worksheet.write_number(1, 1, 1)
+        self.worksheet.write_number(2, 2, 1)
+        self.worksheet.write_number(3, 3, 1)
+        self.worksheet.write_number(4, 4, 1)
+        self.worksheet.write_number(5, 5, 1)
+        self.worksheet.write_number(6, 6, 1)
+        self.worksheet.write_number(7, 7, 1)
+        self.worksheet.write_number(8, 8, 1)
+        self.worksheet.write_number(9, 9, 1)
+        self.worksheet.write_number(10, 10, 1)
+        self.worksheet.write_number(11, 11, 1)
+        self.worksheet.write_number(12, 12, 1)
+        self.worksheet.write_number(13, 13, 1)
+        self.worksheet.write_number(14, 14, 1)
+        self.worksheet.write_number(15, 15, 1)
+        self.worksheet.write_number(16, 16, 1)
+
     def test_calculate_spans_1(self):
         """Test Worksheet _calculate_spans()"""
-        row = 0
-        col = 0
-
-        for i in range(row, row + 17):
-            self.worksheet.write_number(i, col, 1)
-            col = col + 1
+        self._fill_worksheet_for_calculate_spans_1()
 
         self.worksheet._calculate_spans()
 
