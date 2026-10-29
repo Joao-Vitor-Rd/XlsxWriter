@@ -260,12 +260,10 @@ class TestConvertDateTime(unittest.TestCase):
 
     def test_convert_date_time_timedelta(self):
         """Test the _convert_date_time() method for timedelta around the 1900 "leap" day."""
-        excel_hours = [(1416, 59), (1440, 60), (1464, 61), (1488, 62), (1500, 62.5)]
+        convert = self.worksheet._convert_date_time
 
-        for python_hours, excel_date in excel_hours:
-            timedelta = datetime.timedelta(hours=python_hours)
-
-            got = self.worksheet._convert_date_time(timedelta)
-            exp = excel_date
-
-            self.assertAlmostEqual(got, exp, places=15)
+        self.assertAlmostEqual(convert(datetime.timedelta(hours=1416)), 59, places=15)
+        self.assertAlmostEqual(convert(datetime.timedelta(hours=1440)), 60, places=15)
+        self.assertAlmostEqual(convert(datetime.timedelta(hours=1464)), 61, places=15)
+        self.assertAlmostEqual(convert(datetime.timedelta(hours=1488)), 62, places=15)
+        self.assertAlmostEqual(convert(datetime.timedelta(hours=1500)), 62.5, places=15)
